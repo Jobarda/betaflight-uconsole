@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/betaflight/betaflight-configurator.git",
+  "tag": "2026.6.2",
+  "commit": "091127c1a5b15268321b0e5b71b8cec89f1de56b",
+  "node": "24.12.0",
+  "npm": "11.6.2"
+}
